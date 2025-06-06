@@ -1,0 +1,160 @@
+Jun  5 23:02:50 vac10tstsrv800 sudo[248]: test network interface 43 went down - mock event
+Jun  5 23:07:07 vac10tstsrv801 docker[432]: test network interface docker went down - mock event
+Jun  5 23:07:46 vac10tstsrv802 docker[465]: fake mock test for 91
+Jun  5 23:08:10 vac10tstsrv800 sshd[2574]: mock configuration applied for service sshd
+Jun  5 23:13:08 vac10tstsrv801 systemd[256]: mock backup started for systemd
+Jun  5 23:15:22 vac10tstsrv802 sudo[1215]: mock warning for test on service 88
+Jun  5 23:19:14 vac10tstsrv800 kernel[178]: fake test event number 6
+Jun  5 23:21:40 vac10tstsrv801 kernel[4360]: mock audit log entry for kernel
+Jun  5 23:23:02 vac10tstsrv802 nginx[4521]: fake error: unable to start nginx
+Jun  5 23:25:50 vac10tstsrv800 docker[4728]: mock configuration applied for service 53
+Jun  5 23:29:44 vac10tstsrv801 httpd[366]: test disk usage at 11% - mock threshold reached
+Jun  5 23:34:02 vac10tstsrv802 kernel[4900]: test network interface kernel went down - mock event
+Jun  5 23:38:16 vac10tstsrv800 nginx[2799]: fake error: unable to start nginx
+Jun  5 23:40:28 vac10tstsrv801 cron[1457]: mock backup started for 79
+Jun  5 23:42:18 vac10tstsrv802 kernel[113]: mock warning for test on service kernel
+Jun  5 23:43:20 vac10tstsrv800 polkitd[541]: fake system check complete for polkitd
+Jun  5 23:48:27 vac10tstsrv801 httpd[3663]: test login attempt failed - fake user
+Jun  5 23:50:19 vac10tstsrv802 mysqld[1852]: mock audit log entry for mysqld
+Jun  5 23:52:05 vac10tstsrv800 sshd[4098]: fake test event number 19
+Jun  5 23:55:44 vac10tstsrv801 networkd[4269]: mock warning for test on service networkd
+Jun  5 23:57:21 vac10tstsrv802 kernel[3176]: test network interface 42 went down - mock event
+Jun  5 23:59:09 vac10tstsrv800 nginx[1942]: fake error: unable to start nginx
+Jun  6 00:02:47 vac10tstsrv801 docker[2022]: mock configuration applied for service docker
+Jun  6 00:04:50 vac10tstsrv802 cron[458]: fake mock test for cron
+Jun  6 00:07:33 vac10tstsrv800 kernel[280]: test disk usage at 99% - mock threshold reached
+Jun  6 00:09:25 vac10tstsrv801 polkitd[1723]: mock backup started for polkitd
+Jun  6 00:12:12 vac10tstsrv802 sshd[1111]: test login attempt failed - fake user
+Jun  6 00:15:07 vac10tstsrv800 kernel[3909]: mock warning for test on service kernel
+Jun  6 00:17:46 vac10tstsrv801 mysqld[3620]: fake system check complete for mysqld
+Jun  6 00:19:58 vac10tstsrv802 networkd[4561]: mock audit log entry for networkd
+Jun  6 00:23:12 vac10tstsrv800 cron[565]: fake test event number 30
+Jun  6 00:24:47 vac10tstsrv801 sshd[4221]: test process 27 exited with status 1 - mock failure
+Jun  6 00:26:55 vac10tstsrv802 kernel[1249]: fake firewall rule applied for kernel
+Jun  6 00:29:00 vac10tstsrv800 nginx[1866]: mock backup started for nginx
+Jun  6 00:31:28 vac10tstsrv801 docker[347]: test disk usage at 45% - mock threshold reached
+Jun  6 00:34:20 vac10tstsrv802 polkitd[2168]: fake error: unable to start polkitd
+Jun  6 00:36:30 vac10tstsrv800 httpd[2901]: fake mock test for httpd
+Jun  6 00:39:02 vac10tstsrv801 cron[2022]: mock warning for test on service cron
+Jun  6 00:41:15 vac10tstsrv802 kernel[493]: test network interface 77 went down - mock event
+Jun  6 00:43:46 vac10tstsrv800 sshd[3344]: mock configuration applied for service sshd
+Jun  6 00:46:18 vac10tstsrv801 networkd[3980]: fake system check complete for networkd
+Jun  6 00:48:27 vac10tstsrv802 mysqld[1974]: test login attempt failed - fake user
+Jun  6 00:50:36 vac10tstsrv800 kernel[2430]: mock audit log entry for kernel
+Jun  6 00:52:59 vac10tstsrv801 docker[3819]: fake firewall rule applied for docker
+Jun  6 00:54:11 vac10tstsrv802 nginx[3255]: test process 58 exited with status 1 - mock failure
+Jun  6 00:56:22 vac10tstsrv800 polkitd[2778]: mock warning for test on service polkitd
+Jun  6 00:58:37 vac10tstsrv801 httpd[1620]: fake mock test for httpd
+Jun  6 01:00:49 vac10tstsrv802 sshd[315]: test disk usage at 60% - mock threshold reached
+Jun  6 01:04:13 vac10tstsrv800 cron[1947]: dummy entry for testing
+Jun  6 01:06:17 vac10tstsrv801 kernel[3281]: mock backup started for kernel
+Jun  6 01:07:22 vac10tstsrv802 docker[2830]: fake error: unable to start docker
+Jun  6 01:09:48 vac10tstsrv800 networkd[2879]: test network interface networkd went down - mock event
+Jun  6 01:12:33 vac10tstsrv801 sshd[4397]: mock configuration applied for service sshd
+Jun  6 01:15:07 vac10tstsrv802 kernel[1049]: fake system check complete for kernel
+Jun  6 01:17:19 vac10tstsrv800 mysqld[3001]: test login attempt failed - fake user
+Jun  6 01:19:28 vac10tstsrv801 nginx[2076]: mock audit log entry for nginx
+Jun  6 01:22:41 vac10tstsrv802 polkitd[1980]: fake firewall rule applied for polkitd
+Jun  6 01:24:55 vac10tstsrv800 networkd[1614]: test process 89 exited with status 1 - mock failure
+Jun  6 01:26:12 vac10tstsrv801 kernel[4699]: fake mock test for kernel
+Jun  6 01:27:33 vac10tstsrv802 cron[3280]: mock warning for test on service cron
+Jun  6 01:29:58 vac10tstsrv800 sshd[3863]: test disk usage at 88% - mock threshold reached
+Jun  6 01:32:06 vac10tstsrv801 docker[230]: fake error: unable to start docker
+Jun  6 01:35:27 vac10tstsrv802 kernel[2069]: mock backup started for kernel
+Jun  6 01:37:31 vac10tstsrv800 mysqld[2481]: test login attempt failed - fake user
+Jun  6 01:39:40 vac10tstsrv801 systemd[3215]: fake system check complete for systemd
+Jun  6 01:41:51 vac10tstsrv802 nginx[3840]: mock audit log entry for nginx
+Jun  6 01:44:19 vac10tstsrv800 polkitd[3456]: test disk usage at 100% - mock threshold reached
+Jun  6 01:46:33 vac10tstsrv801 sshd[4182]: fake warning for test on service sshd
+Jun  6 01:49:38 vac10tstsrv802 networkd[1410]: test network interface 50 went down - mock event
+Jun  6 01:52:02 vac10tstsrv800 docker[3123]: mock configuration applied for service docker
+Jun  6 01:52:56 vac10tstsrv801 kernel[2687]: fake error: unable to start kernel
+Jun  6 01:54:47 vac10tstsrv802 cron[3209]: fake mock test for cron
+Jun  6 01:57:12 vac10tstsrv800 khub[2641]: mock warning for test on service khub
+Jun  6 01:59:15 vac10tstsrv801 sshd[3772]: test process 76 exited with status 1 - mock failure
+Jun  6 02:01:47 vac10tstsrv802 mysqld[4404]: fake system check complete for mysqld
+Jun  6 02:03:02 vac10tstsrv800 kernel[3299]: mock audit log entry for kernel
+Jun  6 02:04:56 vac10tstsrv801 polkitd[4591]: fake firewall rule applied for polkitd
+Jun  6 02:07:21 vac10tstsrv802 networkd[3328]: mock backup started for networkd
+Jun  6 02:08:50 vac10tstsrv800 docker[1832]: test disk usage at 42% - mock threshold reached
+Jun  6 02:11:16 vac10tstsrv801 sshd[1733]: fake error: unable to start sshd
+Jun  6 02:13:29 vac10tstsrv802 kernel[4130]: test login attempt failed - fake user
+Jun  6 02:15:42 vac10tstsrv800 cron[3947]: mock configuration applied for service cron
+Jun  6 02:18:09 vac10tstsrv801 mysqld[2843]: fake mock test for mysqld
+Jun  6 02:19:55 vac10tstsrv802 polkitd[4936]: test process 35 exited with status 1 - mock failure
+Jun  6 02:22:07 vac10tstsrv800 httpd[1619]: test network interface 82 went down - mock event
+Jun  6 02:24:15 vac10tstsrv801 sshd[173]: fake warning for test on service sshd
+Jun  6 02:26:32 vac10tstsrv802 docker[2046]: mock backup started for docker
+Jun  6 02:28:44 vac10tstsrv800 kernel[2897]: fake error: unable to start kernel
+Jun  6 02:31:07 vac10tstsrv801 systemd[1274]: fake test event number 59
+Jun  6 02:32:18 vac10tstsrv802 networkd[679]: mock configuration applied for service networkd
+Jun  6 02:34:40 vac10tstsrv800 cron[2301]: fake mock test for cron
+Jun  6 02:37:05 vac10tstsrv801 sshd[3512]: test disk usage at 75% - mock threshold reached
+Jun  6 02:39:21 vac10tstsrv802 mysqld[448]: mock warning for test on service mysqld
+Jun  6 02:40:50 vac10tstsrv800 kernel[193]: test login attempt failed - fake user
+Jun  6 02:42:33 vac10tstsrv801 docker[3209]: fake system check complete for docker
+Jun  6 02:44:10 vac10tstsrv802 polkitd[3618]: fake audit log entry for polkitd
+Jun  6 02:46:27 vac10tstsrv800 httpd[2301]: test process 64 exited with status 1 - mock failure
+Jun  6 02:49:08 vac10tstsrv801 sshd[1337]: mock backup started for sshd
+Jun  6 02:51:44 vac10tstsrv802 networkd[2784]: fake warning for test on service networkd
+Jun  6 02:53:31 vac10tstsrv800 cron[487]: test disk usage at 30% - mock threshold reached
+Jun  6 02:56:12 vac10tstsrv801 kernel[1875]: fake error: unable to start kernel
+Jun  6 02:58:29 vac10tstsrv802 mysqld[2390]: mock configuration applied for service mysqld
+Jun  6 03:01:55 vac10tstsrv800 sshd[290]: fake test event number 73
+Jun  6 03:02:56 vac10tstsrv801 systemd[2322]: mock warning for test on service systemd
+Jun  6 03:04:44 vac10tstsrv802 docker[1890]: fake firewall rule applied for docker
+Jun  6 03:07:13 vac10tstsrv800 kernel[3980]: test process 82 exited with status 1 - mock failure
+Jun  6 03:09:27 vac10tstsrv801 nginx[4621]: fake mock test for nginx
+Jun  6 03:11:30 vac10tstsrv802 cron[1234]: mock audit log entry for cron
+Jun  6 03:13:48 vac10tstsrv800 sshd[207]: test disk usage at 55% - mock threshold reached
+Jun  6 03:16:12 vac10tstsrv801 polkitd[3780]: fake error: unable to start polkitd
+Jun  6 03:18:09 vac10tstsrv802 networkd[2679]: test network interface 11 went down - mock event
+Jun  6 03:19:38 vac10tstsrv800 mysqld[2219]: mock configuration applied for service mysqld
+Jun  6 03:22:15 vac10tstsrv801 kernel[948]: fake backup started for kernel
+Jun  6 03:24:41 vac10tstsrv802 docker[887]: test process 97 exited with status 1 - mock failure
+Jun  6 03:26:56 vac10tstsrv800 cron[544]: fake system check complete for cron
+Jun  6 03:29:07 vac10tstsrv801 sshd[1920]: mock warning for test on service sshd
+Jun  6 03:31:33 vac10tstsrv802 httpd[4402]: test login attempt failed - fake user
+Jun  6 03:33:29 vac10tstsrv800 networkd[2015]: fake audit log entry for networkd
+Jun  6 03:34:22 vac10tstsrv801 docker[2487]: mock backup started for docker
+Jun  6 03:36:41 vac10tstsrv802 kernel[1590]: fake test event number 84
+Jun  6 03:39:03 vac10tstsrv800 mysqld[2998]: mock warning for test on service mysqld
+Jun  6 03:41:21 vac10tstsrv801 cron[1230]: fake error: unable to start cron
+Jun  6 03:43:30 vac10tstsrv802 sshd[3709]: test process 52 exited with status 1 - mock failure
+Jun  6 03:45:12 vac10tstsrv800 polkitd[2931]: fake mock test for polkitd
+Jun  6 03:47:27 vac10tstsrv801 kernel[818]: mock audit log entry for kernel
+Jun  6 03:49:44 vac10tstsrv802 httpd[4270]: fake firewall rule applied for httpd
+Jun  6 03:52:08 vac10tstsrv800 docker[3039]: test disk usage at 65% - mock threshold reached
+Jun  6 03:54:37 vac10tstsrv801 networkd[1227]: fake error: unable to start networkd
+Jun  6 03:56:51 vac10tstsrv802 sshd[2592]: mock backup started for sshd
+Jun  6 03:58:18 vac10tstsrv800 cron[4872]: test login attempt failed - fake user
+Jun  6 04:00:30 vac10tstsrv801 kernel[3072]: fake system check complete for kernel
+Jun  6 04:03:07 vac10tstsrv802 mysqld[2976]: mock warning for test on service mysqld
+Jun  6 04:05:25 vac10tstsrv800 nginx[234]: test process 81 exited with status 1 - mock failure
+Jun  6 04:07:47 vac10tstsrv801 docker[1980]: fake mock test for docker
+Jun  6 04:09:53 vac10tstsrv802 networkd[2110]: mock audit log entry for networkd
+Jun  6 04:12:44 vac10tstsrv800 sshd[4367]: fake firewall rule applied for sshd
+Jun  6 04:14:49 vac10tstsrv801 polkitd[4341]: test disk usage at 35% - mock threshold reached
+Jun  6 04:17:02 vac10tstsrv802 kernel[4078]: mock backup started for kernel
+Jun  6 04:18:35 vac10tstsrv800 cron[1022]: fake error: unable to start cron
+Jun  6 04:20:55 vac10tstsrv801 mongodb[2530]: test login attempt failed - fake user
+Jun  6 04:22:10 vac10tstsrv802 sshd[4437]: mock configuration applied for service sshd
+Jun  6 04:24:31 vac10tstsrv800 networkd[573]: fake mock test for networkd
+Jun  6 04:26:12 vac10tstsrv801 kernel[2965]: fake test event number 93
+Jun  6 04:28:19 vac10tstsrv802 cron[3069]: test disk usage at 5% - mock threshold reached
+Jun  6 04:29:48 vac10tstsrv800 polkitd[1014]: mock warning for test on service polkitd
+Jun  6 04:31:20 vac10tstsrv801 docker[1450]: fake system check complete for docker
+Jun  6 04:34:16 vac10tstsrv802 nginx[1432]: fake test event number 9
+Jun  6 04:36:30 vac10tstsrv800 networkd[4370]: mock warning for test on service 25
+Jun  6 04:38:39 vac10tstsrv801 mysqld[3965]: mock configuration applied for service mysqld
+Jun  6 04:40:33 vac10tstsrv802 systemd[679]: fake firewall rule applied for systemd
+Jun  6 04:45:12 vac10tstsrv800 cron[2772]: fake mock test for cron
+Jun  6 04:47:47 vac10tstsrv801 docker[550]: fake mock test for 14
+Jun  6 04:50:31 vac10tstsrv802 networkd[2375]: test process 78 exited with status 1 - mock failure
+Jun  6 04:51:21 vac10tstsrv800 mysqld[3789]: mock audit log entry for 94
+Jun  6 04:52:57 vac10tstsrv801 sshd[4547]: fake firewall rule applied for sshd
+Jun  6 04:54:58 vac10tstsrv802 polkitd[3932]: fake firewall rule applied for polkitd
+Jun  6 04:58:40 vac10tstsrv800 kernel[1668]: mock backup started for kernel
+Jun  6 04:59:02 vac10tstsrv801 docker[3477]: mock warning for test on service 79
+Jun  6 05:02:45 vac10tstsrv802 sshd[2075]: mock audit log entry for 68
+Jun  6 05:04:23 vac10tstsrv800 sudo[4732]: test disk usage at 150% - mock threshold reached
